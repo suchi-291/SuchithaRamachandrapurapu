@@ -283,6 +283,11 @@ main{
    color: var(--themeColor);
 }
 
+#home .home-row h1 span.name{
+
+   color: var(--textColor);
+}
+
 #home .home-row p{
   color: whitesmoke;
   font-size: 30px;
@@ -311,8 +316,9 @@ main{
     line-height: 50px;
   }
 
- #home .home-row h1 .name{
+ #home .home-row h1 span.name{
   display: none;
+  color: #00ffffff;
  }
 
   #home .home-row h1 br{
