@@ -284,10 +284,7 @@ main{
    color: var(--themeColor);
 }
 
-#home .home-row h1 span.white{
 
-   opacity:0;
-}
 
 #home .home-row p{
   color: whitesmoke;
@@ -317,9 +314,9 @@ main{
     line-height: 50px;
   }
 
- #home .home-row h1 span.name{
+ #home .home-row h1 span.white{
   display: none;
-  color: #00ffffff;
+  color: rgba(0,0,0,0);
  }
 
   #home .home-row h1 br{
