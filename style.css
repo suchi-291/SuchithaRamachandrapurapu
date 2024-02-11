@@ -311,6 +311,10 @@ main{
     line-height: 50px;
   }
 
+ #home .home-row h1 .name{
+  display: none;
+ }
+
   #home .home-row h1 br{
     display: none;
 
