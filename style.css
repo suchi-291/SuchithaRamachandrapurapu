@@ -284,9 +284,9 @@ main{
    color: var(--themeColor);
 }
 
-#home .home-row h1 span.name{
+#home .home-row h1 span.white{
 
-   color: var(--textColor);
+   opacity:0;
 }
 
 #home .home-row p{
