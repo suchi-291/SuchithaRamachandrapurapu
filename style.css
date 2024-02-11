@@ -157,7 +157,7 @@ header .footer{
 
       position: fixed;
       top: 25px;
-      right: 10px;
+      right: 25px;
       font-size: 20px;
       width: 40px;
       height: 40px;
@@ -193,7 +193,7 @@ header .footer{
   
     #MenuBtn{
       display: block;
-      right: 50px;
+      right: 20px;
   }
 }
 
