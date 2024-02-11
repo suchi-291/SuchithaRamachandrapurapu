@@ -278,7 +278,7 @@ main{
 }
 
 
-#home .home-row h1 span{
+#home .home-row h1 span.dot{
 
    color: var(--themeColor);
 }
