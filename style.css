@@ -328,6 +328,7 @@ main{
   #home .home-row p{
     font-size: 20px;
     font-weight: 400;
+   margin-top:-10px;
     
   }
 
